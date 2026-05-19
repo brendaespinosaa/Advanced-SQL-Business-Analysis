@@ -146,5 +146,6 @@ Advanced-SQL-Business-Analysis/
 ├── images/
 │
 └── README.md
+```
 
 *Created by Brenda Espinosa*
