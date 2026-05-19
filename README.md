@@ -148,4 +148,61 @@ Advanced-SQL-Business-Analysis/
 └── README.md
 ```
 
+Key Business Insights
+Customer Revenue Concentration
+
+A relatively small group of customers generates a disproportionately large percentage of total marketplace revenue.
+
+Customer Retention
+
+Cohort analysis revealed decreasing customer retention over time, highlighting opportunities for loyalty and retention strategies.
+
+Churn Risk
+
+A significant portion of customers demonstrated long inactivity periods, indicating elevated churn risk.
+
+Sales Seasonality
+
+Marketplace sales exhibit clear seasonal fluctuations throughout the year.
+
+Regional Performance
+
+Revenue generation is heavily concentrated in specific Brazilian states.
+
+Customer Lifetime Value
+
+Customers with higher purchase frequency generate substantially greater lifetime value.
+
+Logistics Performance
+
+Delivery times and freight costs vary significantly between regions, impacting operational efficiency and customer experience.
+
+Business Questions Answered
+Which product categories generate the highest revenue?
+Which customers generate the most value?
+Which customers are at risk of churn?
+What are the marketplace sales seasonality patterns?
+Which states generate the highest revenue?
+How does customer retention evolve over time?
+Which payment methods dominate the platform?
+How does purchase frequency impact customer lifetime value?
+Future Improvements
+
+Potential future expansions for this project include:
+
+Power BI dashboard integration
+Interactive KPI visualizations
+Python and Pandas analysis
+ETL automation pipelines
+Predictive churn modeling
+Streamlit analytics application
+Conclusion
+
+This project demonstrates how advanced SQL can be used to solve real-world business problems using marketplace transactional data.
+
+The analysis combines technical SQL expertise with business intelligence concepts to generate actionable insights related to customer behavior, retention, revenue generation, and operational performance.
+
+The project also reflects strong analytical thinking, business understanding, and professional project organization practices commonly expected in modern data analytics roles.
+
+
 *Created by Brenda Espinosa*
