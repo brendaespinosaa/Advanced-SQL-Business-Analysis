@@ -1,5 +1,14 @@
 # ⚙️ Advanced SQL Business Analysis
 
+Advanced SQL analytics project focused on customer behavior, retention analysis, churn prediction, cohort analysis, and marketplace business intelligence.
+
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
+![Analytics](https://img.shields.io/badge/Business-Analytics-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+---
+
 ## Overview
 
 This project explores a real-world Brazilian e-commerce dataset using advanced SQL techniques to solve business problems and generate strategic business insights.
@@ -7,6 +16,38 @@ This project explores a real-world Brazilian e-commerce dataset using advanced S
 The analysis focuses on customer behavior, revenue performance, retention, churn risk, seasonality, and marketplace operations. The project simulates real-world business intelligence and analytics scenarios commonly found in data-driven companies.
 
 The objective was not only to perform SQL queries, but to build a complete business analytics project with professional documentation, structured analysis, and actionable insights.
+
+---
+
+## Dashboard Preview
+
+![Dashboard](images/dashboard-overview.png)
+
+---
+
+## SQL Analysis Examples
+
+### Customer Revenue Analysis
+
+![Customer Analysis](images/sql-customer-analysis.png)
+
+---
+
+### RFM Customer Segmentation
+
+![RFM Analysis](images/sql-rfm-analysis.png)
+
+---
+
+### Cohort Retention Analysis
+
+![Cohort Analysis](images/sql-cohort-analysis.png)
+
+---
+
+### Business Questions Analysis
+
+![Business Questions](images/sql-business-questions.png)
 
 ---
 
@@ -144,36 +185,43 @@ Advanced-SQL-Business-Analysis/
 │   └── business_insights.md
 │
 ├── images/
+│   ├── dashboard-overview.png
+│   ├── sql-customer-analysis.png
+│   ├── sql-rfm-analysis.png
+│   ├── sql-cohort-analysis.png
+│   └── sql-business-questions.png
 │
 └── README.md
 ```
 
-# Key Business Insights
+---
 
-## Customer Revenue Concentration
+## Key Business Insights
+
+### Customer Revenue Concentration
 A relatively small group of customers generates a disproportionately large percentage of total marketplace revenue.
 
-## Customer Retention
+### Customer Retention
 Cohort analysis revealed decreasing customer retention over time, highlighting opportunities for loyalty and retention strategies.
 
-## Churn Risk
+### Churn Risk
 A significant portion of customers demonstrated long inactivity periods, indicating elevated churn risk.
 
-## Sales Seasonality
+### Sales Seasonality
 Marketplace sales exhibit clear seasonal fluctuations throughout the year.
 
-## Regional Performance
+### Regional Performance
 Revenue generation is heavily concentrated in specific Brazilian states.
 
-## Customer Lifetime Value
+### Customer Lifetime Value
 Customers with higher purchase frequency generate substantially greater lifetime value.
 
-## Logistics Performance
+### Logistics Performance
 Delivery times and freight costs vary significantly between regions, impacting operational efficiency and customer experience.
 
 ---
 
-# Business Questions Answered
+## Business Questions Answered
 
 - Which product categories generate the highest revenue?
 - Which customers generate the most value?
@@ -186,7 +234,7 @@ Delivery times and freight costs vary significantly between regions, impacting o
 
 ---
 
-# Future Improvements
+## Future Improvements
 
 Potential future expansions for this project include:
 
@@ -199,12 +247,14 @@ Potential future expansions for this project include:
 
 ---
 
-# Conclusion
+## Conclusion
 
 This project demonstrates how advanced SQL can be used to solve real-world business problems using marketplace transactional data.
 
 The analysis combines technical SQL expertise with business intelligence concepts to generate actionable insights related to customer behavior, retention, revenue generation, and operational performance.
 
 The project also reflects strong analytical thinking, business understanding, and professional project organization practices commonly expected in modern data analytics roles.
+
+---
 
 *Created by Brenda Espinosa*
